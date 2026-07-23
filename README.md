@@ -280,4 +280,4 @@ By letting those specialized layers handle trustless verification, your open-sou
 
 Could be continued...
 
-## Fun words: misfeasance in public office
+
