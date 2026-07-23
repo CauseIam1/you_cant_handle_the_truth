@@ -229,8 +229,24 @@ Swapping assets to assets and back, is just one of many strategies the ledger an
 As well as acquiring more assets over time. XRPL has native pathfinding, so if you would like to pay for something using your assets, the Vendor on the other side gets to choose whatever asset they would like to receive in. Therefore you're never touching fiat and therefore there is no triggering a taxable event. Bye bye to the Fiat world.
 This is exactly what our ecosystem's trading bot and manual radar system are designed to do. The software visually tracks these exchange ratios. Watch myxrpl.com and when a ratio expands in our favor (eg 30% profit), you swap the assets back in the other direction to capture the 30%. Rince and repeat with your ever increasing pile (swap back including profit).
 Our singular objective is to capture the momentum of that seesaw to maximize the raw quantity volume of the asset piles, leaving the fiat banking system completely out of the equation.
-If you would like to try this yourself, read the MyXRPL repo on how to do it...
-Make some asset to asset swaps of assets you currently hold and then enter your r-address into myxrpl.com (only views, no signing authority)
+
+# Try it yourself at myxrpl.com
+## Here's how it works
+MyXRPL DeFi is a way to maximize your XRPL token holdings. 
+Take advantage of the Reverse Swap calculator and boost your piles of each asset. 
+Swap some of your assets for other assets (through AMM pools). 
+Then load your r-address into (myxrpl.com). 
+When you log in and Flip The Switch, it loads your transaction history of all your past swaps. 
+It groups all past swaps within Swap Pairs in chronological order. 
+It starts with your oldest trade (keeping running total) and goes through your swaps in the same order you filled them. 
+It then reports your profits or loss (means you have assets sitting waiting to be swapped back). 
+Once you've made enough profitable swaps, all your Token Positions will eventually go green. 
+Meaning, those tokens are pure profit (this takes time and you making swaps whenever over 15-20% profit). It reports your Realized Profit on each asset pair, from your first swap until latest swap. 
+It looks at live prices to tell you if it's profitable to reverse swap your Latest Position (updates prices every minute). 
+The site will be undergoing major revampments soon.
+You can read obout it here...
+
+### https://github.com/CauseIam1/MyXRPL
 
 ## 🛠️ Decentralizing the Township: From Global Vision to Local Execution (Would also work good for handing out grants to developers based on voting. eg xrpl.org grant program)
 That is scaling the philosophy right down to the metal where it actually matters most. Municipal governance is often the most bloated, opaque layer of bureaucracy in modern society—rife with closed-door contractor bidding, wasted tax dollars, and administrative inertia that leaves basic infrastructure neglected.
