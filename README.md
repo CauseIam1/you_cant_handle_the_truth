@@ -282,11 +282,15 @@ By letting those specialized layers handle trustless verification, your open-sou
  * **Plugging Into the Future:** As decentralized identity and proof standards mature, the framework can simply integrate them as a native utility, keeping participant data entirely private while locking down the one-person, one-vote foundation.
 
 
-# If you made it this far, I'd like to ask you, who are you? 
-# To which you're going to reply with your name. 
-# To which I'm going to answer, how could you be that which was given to you after you were born? 
-# How could you possibly be something that you didn't have when you were born and you were given it after you were born, but you're walking around saying that you are that? 
-# Now, I might be a little stupid, but I just don't understand.
+## If you made it this far, I'd like to ask you, who are you? 
+## To which you're going to reply with your name. 
+## To which I'm going to answer, how could you be that which was given to you after you were born? 
+## How could you possibly be something that you didn't have when you were born and you were given it after you were born, but you're walking around saying that you are that? 
+## Now, I might be a little stupid, but I just don't understand.
 
-# Everyone is on their own ride, the choice is theirs...
 
+## Everyone is on their own ride, the choice is theirs...
+
+
+## Love to ask Elon about his project over at Hadley-C.
+## Seeing as it's funded by taxpayer money...
