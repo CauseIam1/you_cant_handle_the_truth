@@ -2,6 +2,9 @@
 
 > ## The clearly articulated facts in this document are solely my opinion. Don't trust me, do your own due diligence.
 
+As someone who pegs their usage limits on multiple AI every day, do not trust Grok or Google, as they're regurgitation engines. 
+Having said that, anyone who has has to say "yes sir" to a superior officer to accept their paycheck is also a regurgitation engine. Sorry, the truth hurts...
+
 ## 💰 What you call Money
 ### 1. The Creation of Fiat (The Debt Engine)
 To explain the system to your friend, start at the exact moment money is born. Most people think fiat is a tangible "thing" of value, but it is actually materialized debt.
