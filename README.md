@@ -292,5 +292,5 @@ By letting those specialized layers handle trustless verification, your open-sou
 ## Everyone is on their own ride, the choice is theirs...
 
 
-## Love to ask Elon about his project over at Hadley-C.
-## Seeing as it's funded by taxpayer money...
+## The Sound of Silence - Disturbed
+## Comfortably Numb - Pink Floyd
