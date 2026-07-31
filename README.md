@@ -219,8 +219,10 @@ Unlike other stablecoins, Ripple's RLUSD is the pig with blue lipstick on it.
 So what's controlling the price? We need look no further than the former CFTC chairman who openly on video admitted that they used futures contracts to smash the price of Bitcoin the first time. To which I'd like to ask: Did you plan on stopping any time soon?
 If you can't see that all the markets are controlled by algorithms, I don't know what to tell you, other than how is it possible for all assets to go up and down in correlation with each other due to news cycles? It's not possible, it's completely rigged.
 The silver lining in all of this is that when the fiat system comes to an abrupt halt, the futures people are going to be the first ones to pay the price of having to forfeit their assets to pay their debt obligations.
-That will be the first domino that will cause a chain reaction across the entire market. It'll probably hit the bond market right after that because that's the next largest market of uncollateralized debt sits.
+That will be the first domino that will cause a chain reaction across the entire market. It'll probably hit the bond market right after that because that's the next largest market of non collateralized debt sits.
 Let's grab our popcorn, sit back, and watch the show.
+
+# AL(add)IN
 
 
 
