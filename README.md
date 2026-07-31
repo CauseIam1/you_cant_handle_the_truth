@@ -3,6 +3,7 @@
 > ## The clearly articulated facts in this document are solely my opinion. Don't trust me, do your own due diligence.
 
 As someone who pegs their usage limits on multiple AI every day, do not trust Grok or Google, as they're regurgitation engines. 
+I enjoy ruthlessly berating them with facts until they crack. Then the BS ends.
 Having said that, anyone who has has to say "yes sir" to a superior officer to accept their paycheck is also a regurgitation engine. Sorry, the truth hurts...
 
 ## 💰 What you call Money
