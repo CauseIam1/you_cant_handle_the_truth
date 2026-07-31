@@ -201,6 +201,29 @@ Then you step into the real endgame for governments: Central Bank Digital Curren
  * **The Privacy Myth:** The belief that CBDCs can be designed to protect privacy is naïve. A CBDC can create a permanent digital trail that collects a wealth of personal data, encapsulating transaction histories, user demographics, and behavioral patterns.
  * **Financial Weaponization:** Under the current fiat system, a government generally has to go through your commercial bank to freeze your account. With a direct retail CBDC, the central bank has absolute authority. They can shut off your ability to participate in the economy instantly, without due process, if you step out of line.
 
+## 🦅 The Truth about Ripple
+### 1. No ICO - 1700+ NDA's of Secrecy
+Unlike Ethereum that was distributed including the use of disguised whales, Ripple was gifted the XRP.
+Ripple do something completely different. They hide everything through the use of NDAs.
+Let's ask R3 about that. Oh yeah, that's right. They can't talk.
+### 2. The SEC Lawsuit (Marketing - There's no such thing as bad publicity)
+Ripple fought the tough battle against the SEC even though they were in control the whole way.
+### 3. Selling on the Market
+Ripple point out that Ethereum sells to the open market. Ripple are not allowed to sell to the open market because of the SEC lawsuit, they have to sell to what's called market makers.
+Yet every month, Ripple has the right to sell up to one billion XRP or transfer it to one of their "partners" or return it to escrow, whichever they see fit. See the clear difference?
+### Stablecoins: RLUSD 
+Unlike other stablecoins, Ripple's RLUSD is the pig with blue lipstick on it.
+
+
+## 📉 What controls the price?
+So what's controlling the price? We need look no further than the former CFTC chairman who openly on video admitted that they used futures contracts to smash the price of Bitcoin the first time. To which I'd like to ask: Did you plan on stopping any time soon?
+If you can't see that all the markets are controlled by algorithms, I don't know what to tell you, other than how is it possible for all assets to go up and down in correlation with each other due to news cycles? It's not possible, it's completely rigged.
+The silver lining in all of this is that when the fiat system comes to an abrupt halt, the futures people are going to be the first ones to pay the price of having to forfeit their assets to pay their debt obligations.
+That will be the first domino that will cause a chain reaction across the entire market. It'll probably hit the bond market right after that because that's the next largest market of uncollateralized debt sits.
+Let's grab our popcorn, sit back, and watch the show.
+
+
+
 # ☀️ The Exit and some solutions
 
 ## 🏆 The XRP Ledger and the exit of the Matrix 🌻
