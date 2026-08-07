@@ -283,9 +283,9 @@ I'm not okay with my rights being violated in 2020, which resulted in my high-te
 The moment my rights were violated, the social contract between myself and everyone else was instantly terminated on breach of contract by you. 
 At that point, I instantly relieved everyone of their duties and I no longer participate in the system. 
 I have been patiently waiting for six years now for clearer heads to prevail, but obviously that's not going to happen. 
-I used to have I am not going to sue government officials or CEOs of my bank even though they've been run the show for the past 40 years. 
-I'm going to put the blame where the blame is due on the feet of the people who are supposed to stand up for my rights when my rights were violated and they failed to do so, they used to be called law enforcement. 
-We live in a civil society ruled by civil law and governed by civil courts. 
+I am not going to sue government officials or the CEO of my bank even though he's been run the show for the past 40 years. 
+I'm going to put the blame where the blame is due on the feet of the people who are supposed to stand up for my rights and ensure we live in a honest system, they used to be called law enforcement. 
+We live in a civil society, ruled by civil law and governed by civil courts. 
 This is why the head of OPP is going to face me in civil court as this is the person who is allowing this to happen to the entire country.
 Last I checked, Ottawa is in Ontario. 
 Lat I checked, all rouge law enfocement branches like RCMP are headquartered in Ontario.
