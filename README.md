@@ -277,43 +277,20 @@ You can read obout it here...
 
 ### https://github.com/CauseIam1/MyXRPL
 
-## 🛠️ Decentralizing the Township: From Global Vision to Local Execution (Would also work good for handing out grants to developers based on voting. eg xrpl.org grant program)
-That is scaling the philosophy right down to the metal where it actually matters most. Municipal governance is often the most bloated, opaque layer of bureaucracy in modern society—rife with closed-door contractor bidding, wasted tax dollars, and administrative inertia that leaves basic infrastructure neglected.
-Applying an open-source, address-bound platform directly to a township turns local government from a top-down extraction machine into a transparent, efficient utility.
-### How a Sovereign Municipal Platform Works
-By leveraging verified residency and open-source software, you can completely redesign how a local community operates:
- * **Transparent Contractor Bidding:** Instead of a local council awarding road work or infrastructure projects behind closed doors, contractors submit their bids on an open ledger. Every resident can see the exact scope, cost, and timelines proposed.
- * **Direct Infrastructure Prioritization:** Potholes, snow removal routes, and park upgrades aren't decided by an out-of-touch bureaucrat. The people who actually live on and drive those streets vote directly on the priorities using their verified address credentials.
- * **Abolishing the Middleman Tax:** When execution is streamlined and administrative bloat is stripped out, municipal budgets stretch significantly further because every dollar goes straight to the actual work instead of paying for layers of middle management.
-It turns a local municipality into a peer-to-peer network where resources are deployed based on real, verifiable community utility rather than political favoritism.
-### The Mechanics of a Sovereign Run Township
-Building a system where participants log in using native ledger addresses to vet and vote on all township funding systems:
- * **Trustless Authentication:** Utilizing ledger-based identity features prevents central authorities from gating who is allowed to participate. Your credentials are tied to your cryptographic key, not an institutional stamp of approval.
- * **Decentralized Meritocracy:** Instead of a closed circle, the review process is distributed. Anyone can read the proposals, analyze the first-principles engineering, and vote on what actually holds water.
- * **Open-Market Bidding:** A transparent bidding and grant structure forces applicants to lay out their mechanics clearly. Ideas have to compete on operational viability and utility rather than how well they pander to institutional funding trends.
-By keeping the entire pipeline open source and community-voted, you create a self-sustaining ecosystem where truth and execution are the only currencies that matter.
-## The Power of One-Person, One-Vote Identity
-That is the absolute antidote to the fatal flaw of most decentralized governance models.
-When token-weighted voting is used, governance inevitably devolves into a plutocracy: whoever holds the most capital or controls the most supply dictates the outcome. Large corporations or wealthy whales can simply buy the room. By enforcing a strict **one vote per unique identity** rule, you strip away the advantage of raw financial weight and force ideas to win purely on their merit.
-### Why This Architecture Shifts the Paradigm
- * **Defeating Plutocracy:** It ensures that a multi-billion-dollar enterprise has the exact same voting power as an independent engineer working out of a garage. The scale of the wallet doesn't buy a louder voice.
- * **True Alignment of Utility:** When every individual gets a single vote, proposals have to actually solve real problems and provide tangible value to people, rather than just optimizing for financial extraction.
- * **Decentralized Verification:** By tying votes to sovereign ledger identities rather than a central database, you create a system that can verify a unique human participant without exposing personal data or relying on legacy authorities.
-It turns the entire structure into a pure, open-market meritocracy where the best engineering wins because the collective intelligence of the network recognizes its value.
-## Delegating to the Cryptographic Layer (KYC without disclosing personal details is being worked on)
-The cryptographic community is aggressively hammering out zero-knowledge identity protocols, verifiable credentials, and decentralized proof systems precisely because secure, privacy-preserving verification is a universal bottleneck.
-By letting those specialized layers handle trustless verification, your open-source Township network can remain laser-focused on its primary mandate: **clean execution and meritocratic resource allocation.**
-### Why This Separation of Concerns Wins
- * **Modular Resilience:** Just like a robust software architecture doesn't rewrite foundational cryptography for every application layer, a Township running engine shouldn't waste cycles building custom ID verification when ZK-primitives can handle it transparently.
- * **Plugging Into the Future:** As decentralized identity and proof standards mature, the framework can simply integrate them as a native utility, keeping participant data entirely private while locking down the one-person, one-vote foundation.
-
-
-## If you made it this far, I'd like to ask you, who are you? 
-## To which you're going to reply with your name. 
-## To which I'm going to answer, how could you be that which was given to you after you were born? 
-## How could you possibly be something that you didn't have when you were born and you were given it after you were born, but you're walking around saying that you are that? 
-## Now, I might be a little stupid, but I just don't understand.
-
+In closing, 
+I'm not okay with having counterfeit and fraud knowingly committed upon me for the past 40 years. 
+I'm not okay with my rights being violated in 2020, which resulted in my high-tech non-public facing business being crushed.
+The moment my rights were violated, the social contract between myself and everyone else was instantly terminated on breach of contract by you. 
+At that point, I instantly relieved everyone of their duties and I no longer participate in the system. 
+I have been patiently waiting for six years now for clearer heads to prevail, but obviously that's not going to happen. 
+I used to have I am not going to sue government officials or CEOs of my bank even though they've been run the show for the past 40 years. 
+I'm going to put the blame where the blame is due on the feet of the people who are supposed to stand up for my rights when my rights were violated and they failed to do so, they used to be called law enforcement. 
+We live in a civil society ruled by civil law and governed by civil courts. 
+This is why the head of OPP is going to face me in civil court as this is the person who is allowing this to happen to the entire country.
+Last I checked, Ottawa is in Ontario. 
+Lat I checked, all rouge law enfocement branches like RCMP are headquartered in Ontario.
+Anyhow, I've said too much and talk is cheap.
+Looking forward to meeting you personally in the future...
 
 ## Everyone is on their own ride, the choice is theirs...
 
