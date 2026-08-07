@@ -288,7 +288,8 @@ I'm going to put the blame where the blame is due on the feet of the people who 
 We live in a civil society, ruled by civil law and governed by civil courts. 
 This is why the head of OPP is going to face me in civil court as this is the person who is allowing this to happen to the entire country.
 Last I checked, Ottawa is in Ontario. 
-Lat I checked, all rouge law enfocement branches like RCMP are headquartered in Ontario.
+Lat I checked, all rouge law enforcement branches like RCMP are headquartered in Ontario.
+Since the Township (OPP backed) is fraudulently trying to force me to pay their bill and these people live near me, they'll be dealing with me IN PERSON. 
 Anyhow, I've said too much and talk is cheap.
 Looking forward to meeting you personally in the future...
 
