@@ -293,6 +293,8 @@ Since the Township (OPP backed) is fraudulently trying to force me to pay their 
 Anyhow, I've said too much and talk is cheap.
 Looking forward to meeting you personally in the future...
 
+Remember, remember, the fifth of November
+
 ## Everyone is on their own ride, the choice is theirs...
 
 
